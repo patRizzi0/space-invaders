@@ -1,0 +1,6 @@
+# Ambiente virtuale locale (non va su GitHub)
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
