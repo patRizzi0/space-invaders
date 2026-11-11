@@ -1,3 +1,7 @@
+# @Patrick
+# Fichier de configuration central : contient toutes les constantes globales (dimensions, limites, couleurs).
+
+
 #Size
 WIDTH = 800
 HEIGHT = 500

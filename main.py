@@ -52,5 +52,3 @@ while running:
         draw_laser(window, laser_1["x"], laser_1["y"])
     
     pygame.display.flip()
-
-pygame.quit()
